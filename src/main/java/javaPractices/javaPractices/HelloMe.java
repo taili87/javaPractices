@@ -3,7 +3,10 @@ package javaPractices.javaPractices;
 public class HelloMe {
 
 	public static void main(String[] args) {
-		System.out.println("Hello WORLD");
+		
+		
+		String name = "Hello world";
+		System.out.println(name);
 
 	}
 
